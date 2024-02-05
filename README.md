@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Samida
-- 👀 I’m interested in Computer Vision, Mathematics, Python programming.
-- 🌱 I’m currently learning machine learning, deep learning, Computer visions, Frontend-UI, Bootstraps, SaaS, Javascripts.
-- 💞️Working as a Machine Learning Engineer-Computer Vision at https://logictronix.com/
-- 📫 How to reach me contact me @ 73bct636@wrc.edu.np
+- 👀 I’m interested in Data science, Mathematics, Python programming.
+- 🌱 I’m currently learning Power BI, data analysis, machine learning, deep learning.
+- 💞️Had worked as a Machine Learning Engineer-Computer Vision at https://logictronix.com/
+- 📫 How to reach me contact me @ whatsapp 07810378027
 
